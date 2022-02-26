@@ -1,0 +1,7 @@
+{
+  "name": "anttiMail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
